@@ -1,0 +1,7 @@
+{
+  "extends": ["airbnb", "airbnb/hooks"],
+  "rules": {
+    "prefer-default-export": "off",
+    "default-param-last": "off"
+  }
+}
